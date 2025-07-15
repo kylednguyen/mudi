@@ -1,54 +1,43 @@
-# Welcome to your Expo app 👋
+# mudi 🎧
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A social music sharing app built with [Expo](https://expo.dev) and React Native.  
+Discover, share, and discuss your favorite songs with friends!
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Getting Started
+
+1. **Install dependencies**
 
    ```bash
    npm install
-   ```
+Start the app
 
-2. Start the app
+bash
+Copy
+Edit
+npx expo start
+You can run the app on:
 
-   ```bash
-   npx expo start
-   ```
+Android emulator
 
-In the output, you'll find options to open the app in a
+iOS simulator
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Expo Go (for quick device testing)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+📂 Project Structure
+All screens/components are in the app and components directories.
 
-## Get a fresh project
+Routing is handled with Expo Router.
 
-When you're ready, run:
+🛠 Features
+Spotify API integration for music data
 
-```bash
-npm run reset-project
-```
+Feed with song posts, likes, comments, and sharing
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+“Top Songs” carousel
 
-## Learn more
+User playlists (WIP)
 
-To learn more about developing your project with Expo, look at the following resources:
+Clean, modern UI
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-# mudi
-# mudi
-# mudi
-# mudi
