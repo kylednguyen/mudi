@@ -1,4 +1,4 @@
-# mudi 🎧
+# mudi 🎧 (WORK IN PROGRESS)
 
 A social music-sharing app built with React Native and Expo. Discover new tracks, share your favorite songs, and see what your friends are listening to!
 
